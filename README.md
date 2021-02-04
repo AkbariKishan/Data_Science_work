@@ -4,7 +4,8 @@ This repositoty has been created to store my projects, notes, and learnings rela
 
 ## Contents
 
-1. Exploratory Data Analysis 
+1. Exploratory Data Analysis
+  - EDA  - Heart disease dataset
 
 2. Machine Learning
   - Supervised Learning
