@@ -1,6 +1,6 @@
 # Statistics, Data Science, AI & ML
 
-This repositoty has been created to store my projects, notes, and learnings related to the field of AI & ML.
+This repositoty has been created to store my projects, notes, and learnings related to the field of Data Science.
 
 ## Contents
 
