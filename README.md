@@ -20,7 +20,7 @@ Scope: This work is mainly around execution of these state of the art techniques
      - Bagging - Random Forest
      - Boosting - AdaBoost, Gradient Boost, XGBoost
    - Unsupervised Learning
-     - KMeans clustering
+     - KMeans/KPrototypes clustering
      - Hierarchical clustering
      - Principal Component Analysis
 
