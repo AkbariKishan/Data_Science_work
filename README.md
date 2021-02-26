@@ -23,5 +23,6 @@ Scope: This work is mainly around execution of these state of the art techniques
      - KMeans/KPrototypes clustering
      - Hierarchical clustering
      - Principal Component Analysis
+     - DBSCAN
 
 
