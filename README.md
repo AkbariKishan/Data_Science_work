@@ -25,4 +25,8 @@ This repository has been created to store my projects, notes, and learnings rela
      - Principal Component Analysis
      - DBSCAN
 
+3. Natural Language Processing (NLP)
+   - POS Tagging
+     - Viterbi Heuristics and Regular Expression
+
 
