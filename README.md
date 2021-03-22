@@ -27,6 +27,5 @@ This repository has been created to store my projects, notes, and learnings rela
 
 3. Natural Language Processing (NLP)
    - POS Tagging
-     - Viterbi Heuristics and Regular Expression
 
 
