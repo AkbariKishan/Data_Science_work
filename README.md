@@ -8,22 +8,22 @@ This repository has been created to store my projects, notes, and learnings rela
 
 ## Contents
 
-1. Exploratory Data Analysis
+1. [Exploratory Data Analysis](/EDA/)
 
 2. Machine Learning
-   - Supervised Learning
-     - Linear Regression 
-     - Logistic Regression
-     - Naive Bayes
-     - SVM
-     - Decision Tree
-     - Bagging - Random Forest
-     - Boosting - AdaBoost, Gradient Boost, XGBoost
-   - Unsupervised Learning
-     - KMeans/KPrototypes clustering
-     - Hierarchical clustering
-     - Principal Component Analysis
-     - DBSCAN
+   - [Linear_Regression](/Linear_Regression/)
+   - [Logistic Regression](/Logistic_Regression/)
+   - [Naive Bayes](/Naive_Bayes/)
+   - [SVM](/SVM/)
+   - [Decision Tree](/Decision_tree/)
+   - [Bagging - Random Forest](/Random_forest/)
+   - [Boosting - AdaBoost](AdaBoost/)
+   - [Boosting - Gradient Boost](/GradientBoosting/)
+   - [Boosting - XGBoost](/XGBoost/)
+   - [KMeans/KPrototypes clustering](/KMeans_KPrototypes/)
+   - [Hierarchical clustering](/Hierarchical_clustering/)
+   - [Principal Component Analysis](/PCA/)
+   - [DBSCAN](/DBSCAN/)
 
 3. Natural Language Processing (NLP)
    - POS Tagging
