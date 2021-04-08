@@ -20,6 +20,7 @@ This repository has been created to store my projects, notes, and learnings rela
    - [Boosting - AdaBoost](AdaBoost/)
    - [Boosting - Gradient Boost](/GradientBoosting/)
    - [Boosting - XGBoost](/XGBoost/)
+   - [Boosting - catboost](/catboost/)
    - [KMeans/KPrototypes clustering](/KMeans_KPrototypes/)
    - [Hierarchical clustering](/Hierarchical_clustering/)
    - [Principal Component Analysis](/PCA/)
