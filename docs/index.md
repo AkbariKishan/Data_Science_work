@@ -4,9 +4,6 @@
 My name is Kishan Akbari. <br />
 I am an engineer with work history in the IT/Mechanical/Aerospace industry. I am passionate about statistics and data science. <br />
 Currently, I am exploring the field of Data Science including various statistical methods, ML, NLP and DL. <br />
-You can checkout my repository [Data_Science_work](https://github.com/kishanAk21/Data_Science_work), which covers various methods used for solving different kind of problems related to data science.
-
-You can reach out to me at kishanakbari@gmail.com for collaboration. 
 
 
 **Social Media:**
@@ -16,6 +13,12 @@ You can reach out to me at kishanakbari@gmail.com for collaboration.
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/kishan-rasikbhai-akbari/
+
+[![Email][2.2]][2]
+
+[2.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+[2]: mailto:kishanakbari@gmail.com
 
 
 
