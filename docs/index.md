@@ -5,6 +5,7 @@ My name is Kishan Akbari. <br />
 I am an engineer with work history in the IT/Mechanical/Aerospace industry. I am passionate about statistics and data science. <br />
 Currently, I am exploring the field of Data Science including various statistical methods, ML, NLP and DL. <br />
 
+[Resume](https://github.com/kishanAk21/my_resume/raw/main/Resume_Kishan.pdf)
 
 **Social Media:**
 
