@@ -26,7 +26,8 @@ This repository has been created to store my projects, notes, and learnings rela
    - [Principal Component Analysis](/PCA/)
    - [DBSCAN](/DBSCAN/)
 
-3. [Natural Language Processing (NLP)](/NLP/)
-   - POS Tagging
+3. Natural Language Processing (NLP)
+   - [POS Tagging](/NLP/POS Tagging/)
+   - [Website Classification using NLP](/NLP/Website Classification/)
 
 
